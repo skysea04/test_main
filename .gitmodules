@@ -1,0 +1,3 @@
+[submodule "test_mid"]
+	path = test_mid
+	url = git@github.com:skysea04/test_mid.git
